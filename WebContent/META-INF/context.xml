@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resources allowLinking="false">
+		<PostResources readOnly="false"
+				className = "org.apache.catalina.webresources.DirResourceSet"
+				base="C:\\Program Files\\apache-tomcat-9.0.76\\wtpwebapps\\uploadFiles"
+				webAppMount="/uploadFiles"/>
+	</Resources>
+</Context>
